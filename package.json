@@ -1,6 +1,8 @@
 {
   "name": "laydate-es6",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/ccwq/laydate-es6",
+  "keywords": ["laydate", "date-picker", "es6"]
 }
